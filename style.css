@@ -1,0 +1,174 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #f6f6f6;
+    line-height: 1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #494949;
+}
+
+h1{
+    font-size: 80px;
+    line-height: 100px;
+    letter-spacing: -1px;
+    color: #333333;
+}
+
+.entry-title{
+	text-align: center;
+    letter-spacing: -3px;
+    text-shadow: 0px 1px 0px #fff;
+    padding: 50px 0 20px 0;
+}
+
+p.desc{
+	font-family: 'Droid Sans', Arial, serif;
+    line-height: 32px;
+    padding: 0px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.red{
+	color:#e0000e;
+}
+
+em{
+    font-family: "Georgia",Times New Roman, Serif;
+    font-style: italic;
+}
+
+
+#block350{
+    width: 88%;
+}
+
+#about h2 {
+    text-transform: uppercase;
+    font-size: 60px;
+    color: #333333;
+    line-height: 70px;
+    letter-spacing: -2px;
+    float: left;
+    text-align: center;
+    padding: 206px 70px;
+}
+
+h1, h2,h3, h4 {
+    font-weight: bold;
+    font-family: 'Droid Sans', Arial, serif;
+    transition: .3s;
+}
+
+#about h2 span, #maintenancePlan h2 span {
+    color: yellowgreen;
+}
+
+#about h2 span:hover{
+    opacity: .7;
+    transition: .4s;
+    padding-right: 20px;
+}
+
+.block600 {
+    width: 600px;
+    transition: .3s;
+}
+
+.block60 h5{
+    font-size: 36px;
+    line-height: 0px;
+    color: yellowgreen;
+    padding-top: 5px;
+    transition: .3s;
+}
+
+.block60 h5:hover{
+    opacity: .7;
+}
+
+.block60  {
+    float: left;
+    padding:0 60px;
+    width: 42%; 
+}
+
+
+
+#about h3 {
+    padding: 20px 0 14px ;
+    font-size: 32px;
+    line-height: 65px;
+    color: yellowgreen;
+    padding-top: 5px;
+    float: right;
+    transition: .3s;
+    padding-right: 12px;
+}
+
+#about h3:hover {
+    opacity: .7;
+    transform: .4s;
+}
+
+
+
+#block350 p {
+    float: right;
+    margin-top: -13px;
+
+}    
+
+.clear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+.block600 p{
+    float: left;
+}
+
+#about h2.lower {
+    float: left;
+    font-size: 50px;
+    line-height: 60px;
+    padding: 150px 0 20px 30px;
+}
+
+#about h2.lower span:hover{
+    opacity: .7;
+    transform: .4s;
+}
+
+.final{
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+    background-color: lightslategrey;
+    text-align: center;
+    font-size: 24px!important;
+
+}
+
+.final ol{
+    padding-right: 100px;
+}
+.final li:hover{
+    opacity: .60;
+}
+
+.final li{
+    display: inline;
+}
+
+.final p{
+    font-size: 14px;
+    margin-left: 32px;
+    letter-spacing: .04em;
+}
+
